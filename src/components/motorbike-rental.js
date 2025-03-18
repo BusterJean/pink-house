@@ -127,9 +127,9 @@ const MotorbikeRental = () => {
       name: "HONDA VARIO 125",
       image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Vario.png-UOTnoG8qfjCXH2ePNGzFqMkyQ4EzBO.jpeg",
       prices: {
-        daily: "IDR 125,000 /DAY",
-        weekly: "IDR 810,000 /WEEK",
-        monthly: "IDR 2,625,000 /MONTH",
+        daily: "IDR 80,000 /DAY",
+        weekly: "IDR 520,000 /WEEK",
+        monthly: "IDR 1,680,000 /MONTH",
       },
     },
     {
@@ -137,9 +137,9 @@ const MotorbikeRental = () => {
       name: "HONDA SCOOPY",
       image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/scoopy.jpg-nRKg80xyqkavZZFWgSTc3YF6rGMYBR.jpeg",
       prices: {
-        daily: "IDR 125,000 /DAY",
-        weekly: "IDR 810,000 /WEEK",
-        monthly: "IDR 2,625,000 /MONTH",
+        daily: "IDR 75,000 /DAY",
+        weekly: "IDR 490,000 /WEEK",
+        monthly: "IDR 1,575,000 /MONTH",
       },
     },
   ]
